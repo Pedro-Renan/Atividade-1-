@@ -36,5 +36,5 @@ docker compose down
 
 ## Autor
 
-# Pedro Renan Rodrigues da Silva 
-# João Victor Crispim Pinheiro 
+- Pedro Renan Rodrigues da Silva 
+- João Victor Crispim Pinheiro 
